@@ -6,7 +6,7 @@ double z1,z2;
 double a,b;
 cout << "Enter a= ";
 cin >> a;
-cout << "Enter b= "
+cout << "Enter b= ";
 cin >> b;
 z1 = (pow(sin(2 * a + 3.14 / 8), 2) + pow(cos(5 * b), 4))
 	/ sqrt(pow(a, 2) + sqrt(pow(2.1 * b, 1/3));
