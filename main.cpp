@@ -10,7 +10,7 @@ cout << "Enter b= ";
 cin >> b;
 z1 = (pow(sin(2 * a + 3.14 / 8), 2) + pow(cos(5 * b), 4))
 	/ sqrt(pow(a, 2) + sqrt(pow(2.1 * b, 1.0/3.0));
-z2 = exp(-3 * a) + pow(4, pow(b, 2);
+z2 = exp(-3 * a) + pow(4, pow(b, 2));
 cout << "z1= " << z1 << endl;
 cout << "z2= " << z2 << endl;
 return 0;
